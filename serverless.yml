@@ -73,5 +73,4 @@ plugins:
   - serverless-python-requirements
 #  - serverless-domain-manager
   - serverless-prune-plugin
-  - serverless-step-functions
   - serverless-iam-roles-per-function
